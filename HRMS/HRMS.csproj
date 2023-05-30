@@ -9,10 +9,8 @@
 
   <ItemGroup>
     <Folder Include="Entities\" />
-    <Folder Include="Database\" />
-    <Folder Include="Services\" />
     <Folder Include="Repositories\" />
-    <Folder Include="UserInterface\" />
+    <Folder Include="Services\Exception\" />
   </ItemGroup>
 
 </Project>
