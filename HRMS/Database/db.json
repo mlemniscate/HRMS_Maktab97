@@ -1,0 +1,21 @@
+{
+  "Users": [
+    {
+      "Id": "b4b16970-7ffa-4dee-b1ec-646b93d84f2a",
+      "FirstName": "Milad",
+      "LastName": "Abdi",
+      "BirthDate": "1995-06-06T21:49:52.4208281+03:30",
+      "PhoneNumber": "09352899119"
+    }
+  ],
+  "Carts": [
+    {
+      "Id": "4c01f855-4710-4dc3-bf69-febcdea2fba7",
+      "Products": [
+        "TV",
+        "Book",
+        "Pen"
+      ]
+    }
+  ]
+}
